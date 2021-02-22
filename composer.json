@@ -1,0 +1,19 @@
+{
+    "name": "andrey/unit-testing",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {"Shestakov\\": "src"}
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "authors": [
+        {
+            "name": "Andrey",
+            "email": "aa.shestakov@keypoint.ru"
+        }
+    ],
+    "require": {}
+}
